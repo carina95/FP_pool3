@@ -30,7 +30,7 @@ namespace problema_9
             Console.Write(" k = ");
             k = int.Parse(Console.ReadLine());
 
-            for(i = 1; i <= k; i++)
+            for(i = 1; i <= k; i++) 
             {
                 aux = v[0];
                 for (j = 0; j < n -1; j++)
