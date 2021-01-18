@@ -9,7 +9,7 @@ namespace problema_10
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             // Cautare binara. Se da un vector cu n elemente sortat in ordine crescatoare. 
             // Se cere sa se determine pozitia unui element dat k. 
             // Daca elementul nu se gaseste in vector rezultatul va fi -1.
@@ -49,23 +49,24 @@ namespace problema_10
             Console.Write(" k = ");
             k = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($" Prin cautarea binara, elementul {k} este pe pozitia {cautarebinara(v, k, 0, n-1)}. ");
+            Console.WriteLine($" Prin cautarea binara, elementul {k} este pe pozitia {cautarebinara(v, k)} ");
         }
-        private static int cautarebinara(int[] v, int k, int s, int d)
+        private static int cautarebinara(int[] v, int k)
         {
-            int m;
-            m = (s + d) / 2;
-            if (s > d)
-                return -1;
-            else
+            int m, s, d;
+            s = 0;
+            d = v.Length - 1; 
+            m = s + (d - s) / 2;
+            while (s < d)
             {
                 if (k == v[m])
                     return m;
                 if (k < v[m])
-                    return cautarebinara(v, k, s, m - 1);
+                   d = m - 1;
                 else
-                    return cautarebinara(v, k, m + 1, d);
+                   s = m + 1;
             }
+        return -1;
         }
     }
 }
