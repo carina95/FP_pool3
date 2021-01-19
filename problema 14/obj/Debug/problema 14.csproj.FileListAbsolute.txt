@@ -1,0 +1,7 @@
+C:\Users\Plisco\source\repos\FP_pool3\problema 14\bin\Debug\problema 14.exe.config
+C:\Users\Plisco\source\repos\FP_pool3\problema 14\bin\Debug\problema 14.exe
+C:\Users\Plisco\source\repos\FP_pool3\problema 14\bin\Debug\problema 14.pdb
+C:\Users\Plisco\source\repos\FP_pool3\problema 14\obj\Debug\problema 14.csproj.CoreCompileInputs.cache
+C:\Users\Plisco\source\repos\FP_pool3\problema 14\obj\Debug\problema 14.exe
+C:\Users\Plisco\source\repos\FP_pool3\problema 14\obj\Debug\problema 14.pdb
+C:\Users\Plisco\source\repos\FP_pool3\problema 14\obj\Debug\problema 14.csprojAssemblyReference.cache
