@@ -40,6 +40,7 @@ namespace problema_15
                     }
                 }
             }
+
             Console.WriteLine(" Vectorul fara elemente care se repeta este: "); 
             for(i = 0; i < l; i++)
                 Console.Write($" {v[i]}  ");
