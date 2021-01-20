@@ -30,7 +30,7 @@ namespace problema_18
             Console.WriteLine(" Introduceti coeficientii ");
 
             for (i = 0; i <= n; i++)
-            {
+            { 
                 Console.Write($" coeficientul {i} = ");
                 v[i] = int.Parse(Console.ReadLine());
             }
