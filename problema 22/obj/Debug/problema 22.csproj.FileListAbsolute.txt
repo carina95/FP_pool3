@@ -1,0 +1,7 @@
+C:\Users\Plisco\source\repos\FP_pool3\problema 22\bin\Debug\problema 22.exe.config
+C:\Users\Plisco\source\repos\FP_pool3\problema 22\bin\Debug\problema 22.exe
+C:\Users\Plisco\source\repos\FP_pool3\problema 22\bin\Debug\problema 22.pdb
+C:\Users\Plisco\source\repos\FP_pool3\problema 22\obj\Debug\problema 22.csprojAssemblyReference.cache
+C:\Users\Plisco\source\repos\FP_pool3\problema 22\obj\Debug\problema 22.csproj.CoreCompileInputs.cache
+C:\Users\Plisco\source\repos\FP_pool3\problema 22\obj\Debug\problema 22.exe
+C:\Users\Plisco\source\repos\FP_pool3\problema 22\obj\Debug\problema 22.pdb
