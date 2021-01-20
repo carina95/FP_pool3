@@ -57,6 +57,7 @@ namespace problema_22
             j = 0;
             k = 0;
             ps = i;
+
             while (i < v1.Length && j < v2.Length)
             {
                 if (v1[i] < v2[j])
@@ -86,9 +87,9 @@ namespace problema_22
             }
             for ( i = 0; i < v.Length; i++)
             {
-                Console.WriteLine($" {v[i]} ");
+                    Console.WriteLine($" {v[i]} ");
             }
-            
+        
         }
     }
 
