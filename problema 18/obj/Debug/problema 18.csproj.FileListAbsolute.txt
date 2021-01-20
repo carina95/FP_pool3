@@ -1,0 +1,7 @@
+C:\Users\Plisco\source\repos\FP_pool3\problema 18\bin\Debug\problema 18.exe.config
+C:\Users\Plisco\source\repos\FP_pool3\problema 18\bin\Debug\problema 18.exe
+C:\Users\Plisco\source\repos\FP_pool3\problema 18\bin\Debug\problema 18.pdb
+C:\Users\Plisco\source\repos\FP_pool3\problema 18\obj\Debug\problema 18.csprojAssemblyReference.cache
+C:\Users\Plisco\source\repos\FP_pool3\problema 18\obj\Debug\problema 18.csproj.CoreCompileInputs.cache
+C:\Users\Plisco\source\repos\FP_pool3\problema 18\obj\Debug\problema 18.exe
+C:\Users\Plisco\source\repos\FP_pool3\problema 18\obj\Debug\problema 18.pdb
