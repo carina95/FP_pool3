@@ -31,6 +31,12 @@ namespace problema_28
             Console.WriteLine("Vectorul sortat prin quick-sort este:");
 
             printVector(v);
+            
+            mergeSort(x, 0, x.Length - 1);
+
+            Console.WriteLine("Vectorul sortat prin merge-sort este:");
+            
+            printVector(x);
         }
 
         static void printVector(int[] v)
