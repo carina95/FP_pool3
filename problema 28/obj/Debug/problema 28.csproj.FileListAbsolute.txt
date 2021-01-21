@@ -1,0 +1,6 @@
+C:\Users\Plisco\source\repos\FP_pool3\problema 28\bin\Debug\problema 28.exe.config
+C:\Users\Plisco\source\repos\FP_pool3\problema 28\bin\Debug\problema 28.exe
+C:\Users\Plisco\source\repos\FP_pool3\problema 28\bin\Debug\problema 28.pdb
+C:\Users\Plisco\source\repos\FP_pool3\problema 28\obj\Debug\problema 28.csproj.CoreCompileInputs.cache
+C:\Users\Plisco\source\repos\FP_pool3\problema 28\obj\Debug\problema 28.exe
+C:\Users\Plisco\source\repos\FP_pool3\problema 28\obj\Debug\problema 28.pdb
